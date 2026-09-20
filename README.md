@@ -68,7 +68,6 @@ pip install -r requirements.txt
 | Metrics | Accuracy, precision, recall, F1, ROC-AUC, PR-AUC, confusion matrix (accuracy alone is misleading under class imbalance) |
 
 ## Results
-> Fill this table from **your own run** (`reports/baseline_metrics.json` or the notebook output). Do not copy numbers from elsewhere.
 
 | Metric (test set) | Dummy (majority) | Logistic Regression |
 | --- | ---: | ---: |
